@@ -1,4 +1,4 @@
-# Simple gRPC Server
+# Simple gRPC Client/Server
 
 ## Run
 Server:
